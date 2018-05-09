@@ -1,6 +1,8 @@
-# my-project
+# spring-boot-vue-demo-vuesource
 
-> A Vue.js project
+### 服务端程序在 spring-boot-demo: [GitHub](https://github.com/gudqs7/spring-boot-vue-demo "boot 源码")
+
+> vue 源码
 
 ## Build Setup
 
@@ -28,4 +30,4 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# spring-boot-vue-demo-vuesource
+
